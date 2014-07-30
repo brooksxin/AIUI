@@ -1,1 +1,4 @@
 test.txt
+wokao 
+the fist time
+i know the vi is funny
